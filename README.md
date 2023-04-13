@@ -1,12 +1,12 @@
- Olá, sou Lucas Kauan Feitosa Luz
- Estou interessado em um emprego do tipo Remoto em Python3/HTML5/Selenium
- Atualmente estou aprendendo a desenvolver automações
- Estou procurando colaborar com uma empresa que goste do meu trabalho
- Estou cursando o ensino medio, tenho 15 anos
- se ficou interessado me chame no whatsapp (34)991474160
+Olá, pessoal! Este é o meu repositório no GitHub onde estou aprendendo Python com ênfase em automações. Aqui, você encontrará alguns projetos que estou desenvolvendo para aprimorar minhas habilidades em programação.
 
 
-<!---
-lucaskfeitosa/lucaskfeitosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Lucas, sou estudante da Udemy e sempre tive interesse em programação e automação. Decidi focar meus estudos em Python, pois é uma linguagem de programação versátil e poderosa, que pode ser utilizada em diversas áreas.
+
+
+O objetivo deste repositório é compartilhar meus projetos em Python com a comunidade, além de documentar meu processo de aprendizado. Espero que isso possa ajudar outras pessoas que estejam iniciando seus estudos em programação ou que queiram aprender mais sobre automação de tarefas.
+
+
+Estou sempre aprendendo coisas novas e adicionando novos projetos ao repositório. Se você tiver alguma sugestão ou quiser colaborar de alguma forma, sinta-se à vontade para entrar em contato comigo.
+
+Obrigado por visitar meu repositório! :)
